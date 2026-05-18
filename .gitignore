@@ -9,3 +9,8 @@ caveman-compress.md
 evals/snapshots/*.html
 evals/snapshots/*.png
 .omc/
+context/refs/research-brief-caveman-code-efficiency.md
+
+# Build artifacts
+dist/*
+!dist/caveman.skill
