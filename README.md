@@ -97,7 +97,7 @@ Based on the viral observation that caveman-speak dramatically reduces LLM token
 
 #### 📜 文言文
 
-> "物出新參照，致重繪。useMemo Wrap之。"
+> "物出新参照，致重绘。useMemo Wrap之。"
 
 </td>
 </tr>
